@@ -45,6 +45,10 @@ See a live demonstration in the demo section below.
 
 ![demonstration of how to generate README](./public/assets/images/note-taker.gif)
 
+### Deployed Site
+
+https://mighty-garden-66088.herokuapp.com/
+
 ## Contributor
 
 :woman: Ying
